@@ -14,5 +14,3 @@ I'm addicted to computers and mathematics! Currently studying Computer Engineeri
 [![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](#) **-->** [Luis Medeiros](www.linkedin.com/in/-luis-medeiros)
 
 ## Thanks for visiting my profile! 😊
-
-![luisenbon's GitHub stats](https://github-readme-stats.vercel.app/api?username=luisenbon&theme=graywhite&show_icons=true)
